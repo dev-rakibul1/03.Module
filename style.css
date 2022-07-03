@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,900&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-weight: 300;
+  font-size: 16px;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 200;
+  color: darkcyan;
+}
+
+.container {
+  width: 960px;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+img {
+  max-width: 100%;
+  filter: saturate(2);
+}
